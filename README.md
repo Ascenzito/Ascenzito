@@ -18,12 +18,14 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 
 | Skill                                          | Associated Project         |
 |------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |<a href="https://google.com">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a> |
-| Vulnerability Assessment and Exploitation      |SOC Automation Lab |
-| Incident Response Planning and Execution       |SOC Automation Lab |
-| Web Application Security Testing              |SOC Automation Lab |
-| Scripting and Automation for Security Tasks    |SOC Automation Lab |
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a> |
+| Vulnerability Assessment and Exploitation      | SOC Automation Lab |
+| Incident Response Planning and Execution       | SOC Automation Lab |
+| Web Application Security Testing              | SOC Automation Lab |
+| Scripting and Automation for Security Tasks    | <a href="https://github.com/paulo-ascenzo/active-directory-home-lab">Active Directory Home Lab</a> |
+| Active Directory & Identity Management        | <a href="https://github.com/paulo-ascenzo/active-directory-home-lab">Active Directory Home Lab</a> |
+| Network Services Configuration (DHCP, DNS, NAT) | <a href="https://github.com/paulo-ascenzo/active-directory-home-lab">Active Directory Home Lab</a> |
 
 ---
 
@@ -72,3 +74,4 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 
 - Detection Lab
 - SOC Automation Project
+- <a href="https://github.com/paulo-ascenzo/active-directory-home-lab">Active Directory Home Lab</a>
