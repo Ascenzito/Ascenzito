@@ -18,8 +18,8 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 
 | Skill                                          | Associated Project         |
 |------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a> |
 | Vulnerability Assessment and Exploitation      | SOC Automation Lab |
 | Incident Response Planning and Execution       | SOC Automation Lab |
 | Web Application Security Testing              | SOC Automation Lab |
@@ -56,6 +56,12 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure_AD-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
+### Virtualisation
+<div>
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ---
@@ -72,6 +78,6 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 
 ## Projects
 
-- Detection Lab
+- <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
 - <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Home Lab</a>
