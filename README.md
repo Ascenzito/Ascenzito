@@ -55,7 +55,6 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 ### Cloud & Identity
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure_AD-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
