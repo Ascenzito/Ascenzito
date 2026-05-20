@@ -23,9 +23,9 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 | Vulnerability Assessment and Exploitation      | SOC Automation Lab |
 | Incident Response Planning and Execution       | SOC Automation Lab |
 | Web Application Security Testing              | SOC Automation Lab |
-| Scripting and Automation for Security Tasks    | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
-| Active Directory & Identity Management        | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
-| Network Services Configuration (DHCP, DNS, NAT) | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| Scripting and Automation for Security Tasks    | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
+| Active Directory & Identity Management        | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
+| Network Services Configuration (DHCP, DNS, NAT) | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
 
 ---
 
