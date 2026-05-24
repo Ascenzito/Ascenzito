@@ -20,9 +20,9 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 |------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a> |
-| Vulnerability Assessment and Exploitation      | SOC Automation Lab |
-| Incident Response Planning and Execution       | SOC Automation Lab |
-| Web Application Security Testing              | SOC Automation Lab |
+| Vulnerability Assessment and Exploitation      | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
+| Incident Response Planning and Execution       | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
+| Web Application Security Testing              | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
 | Scripting and Automation for Security Tasks    | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
 | Active Directory & Identity Management        | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
 | Network Services Configuration (DHCP, DNS, NAT) | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
@@ -78,5 +78,5 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 ## Projects
 
 - <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a>
-- SOC Automation Lab
+- <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a>
 - <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Home Lab</a>
