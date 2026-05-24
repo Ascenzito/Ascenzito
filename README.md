@@ -78,5 +78,5 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 ## Projects
 
 - <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
+- SOC Automation Lab
 - <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Home Lab</a>
