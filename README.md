@@ -4,13 +4,13 @@
 
 # Paulo Ascenzo-Cabello
 
-Final-year Bachelor of Computer Science (Cybersecurity) student at Curtin University, Perth WA. CompTIA Network+ certified, Microsoft SC-900 certified, and actively pursuing Security+. I bring hands-on experience in IT support, penetration testing, IDS/incident response, SIEM tooling, and SOC automation.
+Final-year Bachelor of Computer Science (Cybersecurity) student at Curtin University, Perth WA. CompTIA Network+ certified, Microsoft SC-900 certified, and actively pursuing Security+. I bring hands-on experience in cloud infrastructure deployment, threat detection and log analysis, automated incident response, penetration testing, identity and access management, and IT support.
 
 ---
 
 ## Objective
 
-I am a cybersecurity-focused computer science student based in Perth, WA, seeking an entry-level role in cybersecurity, IT support, or network engineering. My practical experience spans technical support, network monitoring, vulnerability assessment, security tooling, and automated incident response across both academic and real-world environments. I am particularly interested in SOC Analyst, GRC Analyst or Security Engineer positions where I can contribute immediately while continuing to develop professionally.
+I am a cybersecurity-focused Computer Science graduate based in Perth, WA, seeking an entry-level role in the technology or the cybersecurity space. My practical experience spans cloud infrastructure deployment, threat detection and log analysis, automated incident response, penetration testing, identity and access management, and technical support across both academic and real-world environments. I bring strong interpersonal and communication skills that complement my technical background, and I am open to opportunities across SOC analysis, GRC, IT consulting, security engineering, or any role where I can contribute immediately and grow toward a long-term career in cybersecurity.
 
 ---
 
@@ -27,6 +27,7 @@ I am a cybersecurity-focused computer science student based in Perth, WA, seekin
 | Scripting and Automation for Security Tasks    | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
 | Active Directory & Identity Management        | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
 | Network Services Configuration (DHCP, DNS, NAT) | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
+| Web Application Pentesting | Coming Soon... |
 
 ---
 
