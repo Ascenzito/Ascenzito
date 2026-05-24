@@ -4,13 +4,13 @@
 
 # Paulo Ascenzo-Cabello
 
-Final-year Bachelor of Computer Science (Cybersecurity) student at Curtin University, Perth WA. CompTIA Network+ certified, Microsoft SC-900 certified, and actively pursuing Security+. I bring hands-on experience in IT support, penetration testing, IDS/incident response, and SIEM tooling.
+Final-year Bachelor of Computer Science (Cybersecurity) student at Curtin University, Perth WA. CompTIA Network+ certified, Microsoft SC-900 certified, and actively pursuing Security+. I bring hands-on experience in IT support, penetration testing, IDS/incident response, SIEM tooling, and SOC automation.
 
 ---
 
 ## Objective
 
-I am a cybersecurity-focused computer science graduate based in Perth, WA, seeking an entry-level role in cybersecurity, IT support, or network engineering. My practical experience spans technical support, network monitoring, vulnerability assessment, and security tooling across both academic and real-world environments. I am particularly interested in SOC Analyst, helpdesk, desktop support, or junior network engineer positions where I can contribute immediately while continuing to develop professionally.
+I am a cybersecurity-focused computer science student based in Perth, WA, seeking an entry-level role in cybersecurity, IT support, or network engineering. My practical experience spans technical support, network monitoring, vulnerability assessment, security tooling, and automated incident response across both academic and real-world environments. I am particularly interested in SOC Analyst, GRC Analyst or Security Engineer positions where I can contribute immediately while continuing to develop professionally.
 
 ---
 
@@ -20,9 +20,10 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 |------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a> |
-| Vulnerability Assessment and Exploitation      | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
+| Security Automation and SOAR Orchestration     | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
 | Incident Response Planning and Execution       | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
-| Web Application Security Testing              | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
+| Threat Intelligence Enrichment                 | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
+| Endpoint Detection and Custom Rule Writing     | <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a> |
 | Scripting and Automation for Security Tasks    | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
 | Active Directory & Identity Management        | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
 | Network Services Configuration (DHCP, DNS, NAT) | <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Lab</a> |
@@ -49,11 +50,20 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Defender_XDR-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### SOAR & Case Management
+<div>
+  <img src="https://img.shields.io/badge/-Shuffle-FF6B35?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TheHive-FFAE33?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Cloud & Identity
 <div>
+  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
@@ -77,6 +87,6 @@ I am a cybersecurity-focused computer science graduate based in Perth, WA, seeki
 
 ## Projects
 
-- <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab</a>
-- <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab</a>
+- <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab – Microsoft Sentinel SIEM & Honeypot</a>
+- <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab – Wazuh, TheHive & Shuffle</a>
 - <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Home Lab</a>
