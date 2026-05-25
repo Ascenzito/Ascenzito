@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/paulo-ascenzo-cabello-585456285" target="_blank">
+<a href="https://www.linkedin.com/in/pauloascenzo" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
