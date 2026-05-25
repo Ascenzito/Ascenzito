@@ -91,3 +91,4 @@ I am a cybersecurity-focused Computer Science graduate based in Perth, WA, seeki
 - <a href="https://github.com/Ascenzito/Detection-Lab">Detection Lab – Microsoft Sentinel SIEM & Honeypot</a>
 - <a href="https://github.com/Ascenzito/SOC-Automation-Lab">SOC Automation Lab – Wazuh, TheHive & Shuffle</a>
 - <a href="https://github.com/Ascenzito/Active-Directory-Home-Lab">Active Directory Home Lab</a>
+  
