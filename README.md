@@ -4,13 +4,13 @@
 
 # Paulo Ascenzo-Cabello
 
-Final-year Bachelor of Computer Science (Cybersecurity) student at Curtin University, Perth WA. CompTIA Network+ certified, Microsoft SC-900 certified, and actively pursuing Security+. I bring hands-on experience in cloud infrastructure deployment, threat detection and log analysis, automated incident response, penetration testing, identity and access management, and IT support.
+Bachelor of Computer Science (Cybersecurity) student at Australian Catholic University, completing my Final-year online from Perth WA. CompTIA Network+ certified, Microsoft SC-900 certified, and actively pursuing Security+. I bring hands-on experience in cloud infrastructure deployment, threat detection and log analysis, automated incident response, penetration testing, identity and access management, and IT support.
 
 ---
 
 ## Objective
 
-I am a cybersecurity-focused Computer Science graduate based in Perth, WA, seeking an entry-level role in the technology or the cybersecurity space. My practical experience spans cloud infrastructure deployment, threat detection and log analysis, automated incident response, penetration testing, identity and access management, and technical support across both academic and real-world environments. I bring strong interpersonal and communication skills that complement my technical background, and I am open to opportunities across SOC analysis, GRC, IT consulting, security engineering, or any role where I can contribute immediately and grow toward a long-term career in cybersecurity.
+I am a cybersecurity-focused Computer Science graduate based in Perth, WA, seeking a role in the cybersecurity space. My practical experience spans cloud infrastructure deployment, threat detection and log analysis, automated incident response, penetration testing, identity and access management, and technical support across both academic and real-world environments. I bring strong interpersonal and communication skills that complement my technical background, and I am open to opportunities across SOC analysis, GRC, IT consulting, security engineering, or any role where I can contribute immediately and grow toward a long-term career in cybersecurity.
 
 ---
 
